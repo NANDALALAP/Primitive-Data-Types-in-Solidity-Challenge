@@ -1,1 +1,5 @@
-# Primitive-Data-Types-in-Solidity-Challenge
+#  smart contract that takes some ether from the user. Find out its value in units of:
+
+wei
+ether
+gwei
